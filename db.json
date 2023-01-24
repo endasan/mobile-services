@@ -1,0 +1,115 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "licenseId": 570,
+      "title": "Статистика цен на грузоперевозки",
+      "subtitle": "Актуальные ставки и динамика цен на грузоперевозки по России",
+      "isNew": "true",
+      "destination": "webView",
+      "webViewUrl": "https://ati.su/analytics/",
+      "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=deadline-time-schedule-bomb-clock-icon-970419&type=svg"
+    },
+    {
+      "id": 2,
+      "licenseId": null,
+      "title": "Расчёт расстояния",
+      "subtitle": "Спланируйте рейс, учитывая стоимость топлива, Платона и платных дорог",
+      "destination": "webView",
+      "webViewUrl": "https://trace.ati.su/?Ferries=1&utm_source=cargoapp&utm_medium=trace&utm_campaign=menu",
+      "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=laptop-device-pc-computer-electronics-icon-970427&type=svg"
+    },
+    {
+      "id": 3,
+      "licenseId": 562,
+      "title": "Проверки фирм, физлиц и ТС",
+      "subtitle": "Убедитесь, что фирма — не банкрот, водитель — без проблем с законом, а ТС — не в залоге",
+      "destination": "webView",
+      "webViewUrl": "https://ati.su/verification/?ref=mobile-android-menu&atiapp=1",
+      "hintUrl": "https://help.ati.su/kak-ubeditsja-chto-partneru-mozhno-doverjat",
+      "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=invoice-bill-receipt-payment-finance-icon-970426&type=svg"
+    },
+    {
+      "id": 4,
+      "licenseId": 566,
+      "title": "Поиск активных перевозчиков",
+      "subtitle": "Получите крупный заказ, или организуйте перевозку больших объём груза на выгодных условиях",
+      "isNew": "true",
+      "destination": "webView",
+      "webViewUrl": "https://ati.su/verification/?ref=mobile-android-menu&atiapp=1",
+      "hintUrl": "https://help.ati.su/kak-ubeditsja-chto-partneru-mozhno-doverjat",
+      "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=data-scientist-analytics-research-report-icon-970418&type=svg"
+    },
+    {
+      "id": 5,
+      "licenseId": 76,
+      "title": "Тендеры на перевозки",
+      "subtitle": "Получите крупный заказ, или организуйте перевозку больших объём груза на выгодных условиях",
+      "destination": "webView",
+      "webViewUrl": "https://ati.su/tenders/?ref=mobile-android-menu&atiapp=1",
+      "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=content-writer-copywriting-copywriter-typing-document-icon-970417&type=svg"
+    },
+    {
+      "id": 6,
+      "licenseId": null,
+      "title": "Страхование груза",
+      "subtitle": "Оформим электронный полис без перехода на сайт страховой, звонков и поездок в офис",
+      "destination": "webView",
+      "webViewUrl": "https://ati.su/landings/insurances/",
+      "hintUrl": "",
+      "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=coffee-cafe-cup-drink-hot-drink-icon-970416&type=svg"
+    },
+    {
+      "id": 7,
+      "licenseId": null,
+      "title": "Площадки (нет заявок)",
+      "subtitle": "Принимайте приглашения и заявки на Площадки от доверенных контрагентов",
+      "destination": "bottomSheet",
+      "bottomSheet": {
+        "title": "У вас пока нет приглашений и заявок на Площадки",
+        "textHtml": "Через Площадки ATI.SU заказчики распределяют грузы между доверенными исполнителями. Чтобы вовремя узнавать о таких грузах, необходимо вступить на Площадку заказчика. <br><br><b>Приглашения</b><br>Придут вам от заказчика, если он захочет работать с вами на постоянной основе через свою Площадку ATI.SU.<br><br><b>Заявки</b><br>Придут вам от исполнителя, если он захочет получать грузы и работать c вами через вашу Площадку ATI.SU.",
+        "buttonText": "Подробнее",
+        "buttonUrl": "https://ati.su/landings/boards/"
+      },
+      "hint": {
+        "textHtml": "Через Площадки ATI.SU заказчики распределяют грузы между доверенными исполнителями. Чтобы вовремя узнавать о таких грузах, необходимо вступить на Площадку заказчика. <br><br><b>Приглашения</b><br>Придут вам от заказчика, если он захочет работать с вами на постоянной основе через свою Площадку ATI.SU.<br><br><b>Заявки</b><br>Придут вам от исполнителя, если он захочет получать грузы и работать c вами через вашу Площадку ATI.SU.",
+        "buttonText": "Подробнее",
+        "buttonUrl": "https://ati.su/landings/boards/"
+      },
+      "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=pen-tablet-illustrator-digital-art-drawing-device-icon-970429&type=svg"
+    },
+    {
+      "id": 8,
+      "licenseId": null,
+      "title": "Водители и ТС",
+      "subtitle": "Заполните свои данные, чтобы оперативно брать заказы на ATI.SU",
+      "destination": "deepLink",
+      "deepLinkPath": "truckPark",
+      "webViewUrl": "https://ati.su/truckPark",
+      "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=personal-branding-profile-boy-man-icon-970431&type=svg"
+    },
+    {
+      "id": 9,
+      "licenseId": null,
+      "title": "Продажа и аренда транспорта",
+      "subtitle": "Продавать, покупать и арендовать транспорт или спецтехнику",
+      "destination": "webView",
+      "webViewUrl": "https://tm.ati.su/trucks/?ref=mobile-android-menu&atiapp=1",
+      "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=time-management-manage-schedule-clock-icon-970437&type=svg"
+    }
+  ],
+  "tabs": [
+    {
+      "id": 0,
+      "position": 0,
+      "name": "Грузовладельцам",
+      "services": [3, 4, 6, 1, 2, 5, 9]
+    },
+    {
+      "id": 1,
+      "position": 1,
+      "name": "Перевозчикам",
+      "services": [2, 3, 1, 5, 8, 9]
+    }
+  ]
+}
