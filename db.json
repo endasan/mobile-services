@@ -5,7 +5,7 @@
       "licenseId": 570,
       "title": "Статистика цен на грузоперевозки",
       "subtitle": "Актуальные ставки и динамика цен на грузоперевозки по России",
-      "isNew": "true",
+      "isNew": true,
       "destination": "webView",
       "webViewUrl": "https://ati.su/analytics/",
       "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=deadline-time-schedule-bomb-clock-icon-970419&type=svg"
@@ -34,7 +34,7 @@
       "licenseId": 566,
       "title": "Поиск активных перевозчиков",
       "subtitle": "Получите крупный заказ, или организуйте перевозку больших объём груза на выгодных условиях",
-      "isNew": "true",
+      "isNew": true,
       "destination": "webView",
       "webViewUrl": "https://ati.su/verification/?ref=mobile-android-menu&atiapp=1",
       "hintUrl": "https://help.ati.su/kak-ubeditsja-chto-partneru-mozhno-doverjat",
@@ -56,7 +56,6 @@
       "subtitle": "Оформим электронный полис без перехода на сайт страховой, звонков и поездок в офис",
       "destination": "webView",
       "webViewUrl": "https://ati.su/landings/insurances/",
-      "hintUrl": "",
       "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=coffee-cafe-cup-drink-hot-drink-icon-970416&type=svg"
     },
     {
@@ -100,14 +99,14 @@
   ],
   "tabs": [
     {
-      "id": 0,
-      "position": 0,
+      "id": 1,
+      "position": 1,
       "name": "Грузовладельцам",
       "services": [3, 4, 6, 1, 2, 5, 9]
     },
     {
-      "id": 1,
-      "position": 1,
+      "id": 2,
+      "position": 2,
       "name": "Перевозчикам",
       "services": [2, 3, 1, 5, 8, 9]
     }
