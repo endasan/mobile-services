@@ -1,4 +1,8 @@
 {
+  "settings": {
+    "chipColorToken":"iconSuccess",
+    "backgroundColorToken":"surfaceSuccess"
+  },
   "services": [
     {
       "id": 1,
@@ -12,7 +16,6 @@
     },
     {
       "id": 2,
-      "licenseId": null,
       "title": "Расчёт расстояния",
       "subtitle": "Спланируйте рейс, учитывая стоимость топлива, Платона и платных дорог",
       "destination": "webView",
@@ -51,7 +54,6 @@
     },
     {
       "id": 6,
-      "licenseId": null,
       "title": "Страхование груза",
       "subtitle": "Оформим электронный полис без перехода на сайт страховой, звонков и поездок в офис",
       "destination": "webView",
@@ -60,7 +62,6 @@
     },
     {
       "id": 7,
-      "licenseId": null,
       "title": "Площадки (нет заявок)",
       "subtitle": "Принимайте приглашения и заявки на Площадки от доверенных контрагентов",
       "destination": "bottomSheet",
@@ -79,7 +80,6 @@
     },
     {
       "id": 8,
-      "licenseId": null,
       "title": "Водители и ТС",
       "subtitle": "Заполните свои данные, чтобы оперативно брать заказы на ATI.SU",
       "destination": "deepLink",
@@ -89,7 +89,6 @@
     },
     {
       "id": 9,
-      "licenseId": null,
       "title": "Продажа и аренда транспорта",
       "subtitle": "Продавать, покупать и арендовать транспорт или спецтехнику",
       "destination": "webView",
@@ -102,13 +101,29 @@
       "id": 2,
       "position": 1,
       "name": "Грузовладельцам",
-      "services": [3, 4, 6, 1, 2, 5, 9]
+      "services": [
+        3,
+        4,
+        6,
+        1,
+        2,
+        5,
+        9
+      ]
     },
     {
       "id": 3,
       "position": 2,
       "name": "Перевозчикам",
-      "services": [2, 3, 1, 5, 8, 9]
+      "services": [
+        2,
+        3,
+        1,
+        5,
+        8,
+        9
+      ]
     }
   ]
 }
+
