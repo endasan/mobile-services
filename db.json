@@ -1,8 +1,4 @@
 {
-  "settings": {
-    "chipColorToken":"iconSuccess",
-    "backgroundColorToken":"surfaceSuccess"
-  },
   "services": [
     {
       "id": 1,
@@ -39,8 +35,8 @@
       "subtitle": "Получите крупный заказ, или организуйте перевозку больших объём груза на выгодных условиях",
       "isNew": true,
       "destination": "webView",
-      "webViewUrl": "https://ati.su/verification/?ref=mobile-android-menu&atiapp=1",
-      "hintUrl": "https://help.ati.su/kak-ubeditsja-chto-partneru-mozhno-doverjat",
+      "webViewUrl": "https://ati.su/active-truckers",
+      "hintUrl": "https://help.ati.su/poisk-aktivnykh-perevozchikov",
       "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=data-scientist-analytics-research-report-icon-970418&type=svg"
     },
     {
@@ -126,4 +122,3 @@
     }
   ]
 }
-
