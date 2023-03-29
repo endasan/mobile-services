@@ -1,4 +1,8 @@
 {
+  "settings": {
+    "chipColorToken": "iconSuccess",
+    "backgroundColorToken": "surfaceSuccess"
+  },
   "services": [
     {
       "id": 1,
@@ -8,7 +12,7 @@
       "isNew": true,
       "destination": "webView",
       "webViewUrl": "https://ati.su/analytics/",
-      "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=deadline-time-schedule-bomb-clock-icon-970419&type=svg"
+      "iconUrl": "assets/icons/coins.svg"
     },
     {
       "id": 2,
@@ -16,7 +20,7 @@
       "subtitle": "Спланируйте рейс, учитывая стоимость топлива, Платона и платных дорог",
       "destination": "webView",
       "webViewUrl": "https://trace.ati.su/?Ferries=1&utm_source=cargoapp&utm_medium=trace&utm_campaign=menu",
-      "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=laptop-device-pc-computer-electronics-icon-970427&type=svg"
+      "iconUrl": "assets/icons/distance.svg"
     },
     {
       "id": 3,
@@ -26,7 +30,7 @@
       "destination": "webView",
       "webViewUrl": "https://ati.su/verification/?ref=mobile-android-menu&atiapp=1",
       "hintUrl": "https://help.ati.su/kak-ubeditsja-chto-partneru-mozhno-doverjat",
-      "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=invoice-bill-receipt-payment-finance-icon-970426&type=svg"
+      "iconUrl": "assets/icons/checks.svg"
     },
     {
       "id": 4,
@@ -37,7 +41,7 @@
       "destination": "webView",
       "webViewUrl": "https://ati.su/active-truckers",
       "hintUrl": "https://help.ati.su/poisk-aktivnykh-perevozchikov",
-      "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=data-scientist-analytics-research-report-icon-970418&type=svg"
+      "iconUrl": "assets/icons/active_cargo.svg"
     },
     {
       "id": 5,
@@ -46,7 +50,7 @@
       "subtitle": "Получите крупный заказ, или организуйте перевозку больших объём груза на выгодных условиях",
       "destination": "webView",
       "webViewUrl": "https://ati.su/tenders/?ref=mobile-android-menu&atiapp=1",
-      "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=content-writer-copywriting-copywriter-typing-document-icon-970417&type=svg"
+      "iconUrl": "assets/icons/tenders.svg"
     },
     {
       "id": 6,
@@ -54,7 +58,7 @@
       "subtitle": "Оформим электронный полис без перехода на сайт страховой, звонков и поездок в офис",
       "destination": "webView",
       "webViewUrl": "https://ati.su/landings/insurances/",
-      "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=coffee-cafe-cup-drink-hot-drink-icon-970416&type=svg"
+      "iconUrl": "assets/icons/insurance.svg"
     },
     {
       "id": 7,
@@ -72,7 +76,7 @@
         "buttonText": "Подробнее",
         "buttonUrl": "https://ati.su/landings/boards/"
       },
-      "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=pen-tablet-illustrator-digital-art-drawing-device-icon-970429&type=svg"
+      "iconUrl": "assets/icons/boards.svg"
     },
     {
       "id": 8,
@@ -81,7 +85,7 @@
       "destination": "deepLink",
       "deepLinkPath": "truckPark",
       "webViewUrl": "https://ati.su/truckPark",
-      "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=personal-branding-profile-boy-man-icon-970431&type=svg"
+      "iconUrl": "assets/icons/drivers.svg"
     },
     {
       "id": 9,
@@ -89,7 +93,7 @@
       "subtitle": "Продавать, покупать и арендовать транспорт или спецтехнику",
       "destination": "webView",
       "webViewUrl": "https://tm.ati.su/trucks/?ref=mobile-android-menu&atiapp=1",
-      "iconUrl": "https://freeicons.io/icon/download?_token=8H1gw3Q181K5OKfRcN7ygGprxsG6Q2dSb16JydYG&page=list_page&icon_id=time-management-manage-schedule-clock-icon-970437&type=svg"
+      "iconUrl": "assets/icons/truckmarket.svg"
     }
   ],
   "tabs": [
