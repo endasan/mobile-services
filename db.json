@@ -47,7 +47,7 @@
       "id": 5,
       "licenseId": 76,
       "title": "Тендеры на перевозки",
-      "subtitle": "Получите крупный заказ, или организуйте перевозку больших объём груза на выгодных условиях",
+      "subtitle": "Получите крупный заказ, или организуйте перевозку больших объёмов груза на выгодных условиях",
       "destination": "webView",
       "webViewUrl": "https://ati.su/tenders/?ref=mobile-android-menu&atiapp=1",
       "iconUrl": "assets/icons/tenders.svg"
